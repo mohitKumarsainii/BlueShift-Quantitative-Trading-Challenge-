@@ -1,2 +1,2 @@
 # BlueShift-Quantitative-Trading-Challenge-
-Quant Insti gave us a problem statement for making an algo to trade and deployed that on platform Alpaca
+QuantInsti gave us a problem statement to develop an algorithmic trading strategy and deploy it on the Alpaca platform.
