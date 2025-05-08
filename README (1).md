@@ -56,7 +56,6 @@ The strategy is rebalanced every market open using **Blueshift's `schedule_funct
 ├── main_strategy.py       # Core strategy logic
 ├── README.md              # Project documentation
 ├── performance_plot.png   # Strategy performance visualization
-└── QUANT-A-THON.pdf       # Problem statement
 ```
 
 ## ✅ Features
@@ -74,6 +73,4 @@ The strategy is rebalanced every market open using **Blueshift's `schedule_funct
 - Learned platform integration (Blueshift, Alpaca) for quant deployment  
 - Hands-on experience with performance analysis and risk control
 
-## 📌 Problem Statement Reference
 
-[QUANT-A-THON 2025 Problem Statement (PDF)](./QUANT-A-THON.pdf)
