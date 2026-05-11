@@ -7,7 +7,7 @@ This repository contains a fully functional Python-based algorithmic trading str
 
 Design and implement a **momentum trading strategy** using Python for the following equities:
 
-- AAPL (Apple Inc.)  
+- AAPL (Apple ) 
 - META (Facebook/Meta)  
 - TSLA (Tesla Inc.)  
 - JPM (JP Morgan Chase)  
